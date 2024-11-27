@@ -1,0 +1,32 @@
+
+header{
+    text-align: center;
+}
+.btn-primary{
+background-color: rgb(70, 134, 255);
+padding: 10px;
+margin-left: 2%;
+justify-content: center;
+}
+.btn-primary:hover{
+background-color: blue;
+}
+.needs-validation{
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+
+  
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: fixed;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    margin-bottom: auto;
+}

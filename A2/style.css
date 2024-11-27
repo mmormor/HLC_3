@@ -1,0 +1,53 @@
+
+header{
+    color:rgb(0, 68, 255);
+    text-align: center;
+    text-shadow: rgb(197, 192, 192) 0px 1px 5px ;
+    font-size:30px;
+    margin-bottom:20px;
+}
+body{
+    font-family: Comic Neue;
+    font-style:unset;
+    color: rgb(0, 4, 255);
+    font-weight: 400;
+    font-style:normal;
+    border-radius: 25px;
+    text-align: center;
+}
+input, select{
+  border-radius: 25px;
+    border: 2px solid rgb(255, 127, 127);
+    border-color: rgb(1, 141, 255);
+    padding: 5px;
+}
+.stylesheet {
+  font-family: "stylesheet";
+  font-weight: 300;
+  font-style: normal;
+}
+
+.container {
+  background-color: rgb(189, 196, 255);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+.item,.item2,.item3 {
+  background-color: rgba(0, 0, 0, 0.2); 
+  width: 100px;
+  border-radius: 15px; 
+  align-items: center;
+  color: rgb(0, 0, 0);
+  font-family: stylesheet;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
